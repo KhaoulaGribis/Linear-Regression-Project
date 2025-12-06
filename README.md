@@ -29,4 +29,4 @@ Ce projet contient une analyse de données publicitaires à l'aide de modèles d
 3. **Exécuter le notebook** :
 Ouvrez le notebook principal dans Jupyter Notebook ou JupyterLab :
 
-```bash jupyter notebook Régression Linéaire.ipynb
+```bash jupyter notebook Régression Linéaire.ipynb```
